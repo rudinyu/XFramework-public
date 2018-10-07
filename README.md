@@ -1,5 +1,5 @@
 # Xframwork (Under Development) 
-(Semi-Automated Vulnerability Scanner and Massive Enumeration Tool/Interpreter That Automates 3rd Party Tools)
+(Semi-Automated Vulnerability Scanner and Massive Enumeration Tool/Interpreter For Automateing Standard Tools)
 XFramework aims to automate Most of Routine Network/WebApplication Information Gathering, Enumeration and Vulnerability Scanning
 it consists of two Base. 1)Network 2)Web-Application
 We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Making the routines easier P.Tester
