@@ -1,12 +1,12 @@
-# Xframwork (Under Development) 
+# Xframwork Public Version(Under Development) 
 (Semi-Automated Vulnerability Scanner and Massive Enumeration Tool/Interpreter For Automateing Standard Tools)
 XFramework aims to automate Most of Routine Network/WebApplication Information Gathering, Enumeration and Vulnerability Scanning
 it consists of two Base. 1)Network 2)Web-Application
 We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Making the routines easier P.Tester its Written Python3 Although Some Of the 3rd party tools are writen c/c++/Ruby/bash/python2
 
-## About Xframework
+## About Xframework Public Version
 ### What Does It Automate ? 
-- Network Scanner and attacker
+- Network Scanner
   - Network Scanning For Open/Filter Ports 
   - Standard Checks With Using Plugins For TELENT/SSH/SMB/SQL-SERVER/WEB-PORTS
   - Bruteforce Services
@@ -19,7 +19,7 @@ We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Maki
   - Sql-injection 
   - Template-Injection 
   - Basic XSS Check
-  - Basic CSRF Test 
+  - CSRF Scan 
   - Brute force directories and files in websites
   
 Note : This Framework Tries To Follow the Standard OWASP Meth. For Pen testing
@@ -28,20 +28,12 @@ Note : This Framework Tries To Follow the Standard OWASP Meth. For Pen testing
 
 Automated Tools Names (Not Yet Completed)
 
-ALREADY DONE : 
-- Nmap
+- Nmap / Nmap Scripts
 - Golismero / Nikto
 - Sqlmap / Tplmap / Sqliv / XssPy
 - Photon
--
 - CMSmap/WPScan/WPsecu/Droopscan/Joomscan
-- Bunch of Other Scrpits/Tools 
-
-TODO : 
-- Metasploit
-- Zmap
-- Plugin Engine/Wizard (For Using Easy 3rd party Command lines Aside from The Core Tools 
-- installer for all tools / packages / python modules / kali libraries 
+- Bunch of Other Scrpits/Tools
 
 ## Installation
 Generally it needs some pre-installed KALI tools such as Nmap/Sqlmap/Golismero/Nikto but the install will install the packages/Libraries/Dependencies That You Need
@@ -75,3 +67,11 @@ The Basic Framework(Scripts) Have Been Developed Around 2015/2016 in Python2/Rub
 
 
 
+# UNDER DEVELOPMENT
+
+- dirsearch/dirb
+- Metasploit
+- Zmap
+- Plugin Engine/Wizard (For Using Easy 3rd party Command lines Aside from The Core Tools 
+- installer for all tools / packages / python modules / kali libraries
+- Xmass Network Attacker Script V2 (Multiprocessed Network Attacker Designed for Brutal Attacks with Extreme Bruteforce Aproch/ Historically Used [Responder/CrackMapExec/Hydra] - Adding New Tools/Optimizing Old Codes)
