@@ -11,6 +11,7 @@ We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Maki
   - Standard Checks With Using Plugins For TELENT/SSH/SMB/SQL-SERVER/WEB-PORTS
   - Bruteforce Services
 - X-Attacker Core 
+  - Information Gathering
   - CMS Identifier (More Than 120 CMS)
   - WAF Testing (Enumeration, Limited Firewall Bypass Recommendation) 
   - CMS-ENUMERATION For Drupal/Wordpress/Joomla/Vb
@@ -28,11 +29,12 @@ Note : This Framework Tries To Follow the Standard OWASP Meth. For Pen testing
 
 Automated Tools Names (Not Yet Completed)
 
-- Nmap / Nmap Scripts
+- Nmap / Some Nmap Scripts 
 - Golismero / Nikto
-- Sqlmap / Tplmap / Sqliv / XssPy
-- Photon
 - CMSmap/WPScan/WPsecu/Droopscan/Joomscan
+- Photon
+- Sqlmap / Tplmap / Sqliv / XssPy
+- Hydra
 - Bunch of Other Scrpits/Tools
 
 ## Installation
@@ -72,6 +74,8 @@ The Basic Framework(Scripts) Have Been Developed Around 2015/2016 in Python2/Rub
 - dirsearch/dirb
 - Metasploit
 - Zmap
+- wapiti / WAFW00F / Commix
 - Plugin Engine/Wizard (For Using Easy 3rd party Command lines Aside from The Core Tools 
 - installer for all tools / packages / python modules / kali libraries
 - Xmass Network Attacker Script V2 (Multiprocessed Network Attacker Designed for Brutal Attacks with Extreme Bruteforce Aproch/ Historically Used [Responder/CrackMapExec/Hydra] - Adding New Tools/Optimizing Old Codes)
+- SubDomain Discovery Tool ? Maybe Some More Multi-Threaded Semi-Recuresive Dir-Bruteforce ? 
