@@ -10,7 +10,7 @@ We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Maki
   - Bruteforce Services
 - X-Attacker Core 
   - CMS Identifier (More Than 120 CMS)
-  - WAF Testing (Enumeration, Limited Firewall Bypass) 
+  - WAF Testing (Enumeration, Limited Firewall Bypass Recommendation) 
   - Tools For Drupal/Wordpress/Joomla/Vb
   - Crawler For URL with Parameters
   - Sql-injection Check for Urls With Param (3 Different Sql-Injection Tool for Enumeration) + (Database Dumping)
