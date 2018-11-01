@@ -68,8 +68,8 @@ sudo pip
 The Basic Framework(Scripts) Have Been Developed Around 2015/2016 in Python2/Ruby/Perl and It has Distributed in Some Forums and Among Some Local P.Testers by name of "XMass-Attacker Scripts" with limited Automated Enumeration Tools and Also Exploitation Recommendation. Since The old Version was Kind of Out-of-Date and Not Very Friendly(Flexible) i decided to Write a completely New framework from Scratch.  
 
 
-
-# UNDER DEVELOPMENT
+# Road Map
+##### Under_development 
 
 - dirsearch/dirb
 - Metasploit
@@ -77,5 +77,7 @@ The Basic Framework(Scripts) Have Been Developed Around 2015/2016 in Python2/Rub
 - wapiti / WAFW00F / Commix
 - Plugin Engine/Wizard (For Using Easy 3rd party Command lines Aside from The Core Tools 
 - installer for all tools / packages / python modules / kali libraries
+
+##### TODO.txt
 - Xmass Network Attacker Script V2 (Multiprocessed Network Attacker Designed for Brutal Attacks with Extreme Bruteforce Aproch/ Historically Used [Responder/CrackMapExec/Hydra] - Adding New Tools/Optimizing Old Codes)
 - SubDomain Discovery Tool ? Maybe Some More Multi-Threaded Semi-Recuresive Dir-Bruteforce ? 
