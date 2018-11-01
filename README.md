@@ -5,7 +5,7 @@ it consists of two Base. 1)Network 2)Web-Application
 We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Making the routines easier P.Tester its Written Python3 Although Some Of the 3rd party tools are writen c/c++/Ruby/bash/python2
 
 ## About Xframework Public Version
-### What Does It Automate ? 
+### Functions and Tools 
 - Network Scanner
   - Network Scanning For Open/Filter Ports 
   - Standard Checks With Using Plugins For TELENT/SSH/SMB/SQL-SERVER/WEB-PORTS
@@ -15,7 +15,7 @@ We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Maki
   - CMS Identifier (More Than 120 CMS)
   - WAF Testing (Enumeration, Limited Firewall Bypass Recommendation) 
   - CMS-ENUMERATION For Drupal/Wordpress/Joomla/Vb
-  - Crawler For URL with Parameters
+  - Crawler For URLs 
   - LFI, RFI, and RCE
   - Sql-injection 
   - Template-Injection 
@@ -48,9 +48,11 @@ please note that it if you want to use it On Parrot OS / Ubuntu Make Sure Every 
 
 ### Before Installation 
 Please Make Sure Your System is Updated
-
+``` 
 sudo apt-get update
 sudo apt-get upgrade
+```
+
 ### Auto Way 
 
 ```
@@ -60,8 +62,9 @@ sudo chmod +x installer.sh && ./installer.sh
 ### Manual Way 
 
 ``` 
-sudo apt-get
-sudo pip
+sudo apt-get nmap golismero sqlmap hydra 
+sudo pip requests bs4 
+git clone 
 ```
 
  # History
@@ -71,7 +74,6 @@ The Basic Framework(Scripts) Have Been Developed Around 2015/2016 in Python2/Rub
 # Road Map
 ##### Under_development 
 
-- dirsearch/dirb
 - Metasploit
 - Zmap
 - wapiti / WAFW00F / Commix
