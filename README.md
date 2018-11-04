@@ -4,27 +4,29 @@ XFramework aims to automate Most of Routine Network/WebApplication Information G
 it consists of two Base. 1)Network 2)Web-Application
 We have Tried to Develop a Semi-Automated Interpreter that its main Goal is Making the routines easier P.Tester its Written Python3 Although Some Of the 3rd party tools are writen c/c++/Ruby/bash/python2
 
-## About Xframework Public Version
-### Functions and Tools 
-- Network Scanner
+### Xframework Community Edition
+The Xframework Works Based On "OWASP" Methodology and Follows the Most of its Tools Have Been Developed With respecto to  "Open-Source-Penetration-Testing-Guide".
+Two Other "Experimental" Penetration Testing Framework Are Under Development under names of : 
+* "XFramwork Dark" Audits and Tests Based on "OSSTMM" 
+* "XFramework Infimum" For Analyzing "SIEM/IPS/IDS/FIREWALL" Logs/Events
+##### Network Attacker Functionality 
   - Network Scanning For Open/Filter Ports 
   - Standard Checks With Using Plugins For TELENT/SSH/SMB/SQL-SERVER/WEB-PORTS
   - Bruteforce Services
+##### Core Attacker Functionality 
 - X-Attacker Core 
   - Information Gathering
   - CMS Identifier (More Than 120 CMS)
   - WAF Testing (Enumeration, Limited Firewall Bypass Recommendation) 
   - CMS-ENUMERATION For Drupal/Wordpress/Joomla/Vb
   - Crawler For URLs 
-  - LFI, RFI, and RCE
-  - Sql-injection 
+  - LFI, RFI, and RCE 
+  - Sql-injection
   - Template-Injection 
-  - Basic XSS Check
-  - CSRF Scan 
-  - Brute force directories and files in websites
+  - XSS Check 
+  - CSRF Scan
+  - Brute force directories and files in websites 
   
-Note : This Framework Tries To Follow the Standard OWASP Meth. For Pen testing
-
 ### What Tools It Automate ?
 
 Automated Tools Names (Not Yet Completed)
